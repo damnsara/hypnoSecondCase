@@ -1,0 +1,17 @@
+C:\Users\Sara\source\repos\RestAPICase\bin\Debug\net6.0\RestAPICase.exe
+C:\Users\Sara\source\repos\RestAPICase\bin\Debug\net6.0\RestAPICase.deps.json
+C:\Users\Sara\source\repos\RestAPICase\bin\Debug\net6.0\RestAPICase.runtimeconfig.json
+C:\Users\Sara\source\repos\RestAPICase\bin\Debug\net6.0\RestAPICase.dll
+C:\Users\Sara\source\repos\RestAPICase\bin\Debug\net6.0\RestAPICase.pdb
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\RestAPICase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\RestAPICase.AssemblyInfoInputs.cache
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\RestAPICase.AssemblyInfo.cs
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\RestAPICase.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\RestAPICase.dll
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\refint\RestAPICase.dll
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\RestAPICase.pdb
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\RestAPICase.genruntimeconfig.cache
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\ref\RestAPICase.dll
+C:\Users\Sara\source\repos\RestAPICase\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\RestAPICase.csproj.AssemblyReference.cache
+C:\Users\Sara\source\repos\RestAPICase\obj\Debug\net6.0\RestAPICase.csproj.CopyComplete
