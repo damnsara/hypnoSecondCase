@@ -22,6 +22,7 @@ void topComments(List<Comment> list, int limit) {
     {
 
         Console.WriteLine(list[i].PostId);
+        Console.WriteLine(list[i].Body);
     }
 }
 
